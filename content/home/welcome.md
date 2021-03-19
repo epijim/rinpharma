@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Wowchemy Research Group"
+title: "R/Pharma Conference"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,4 +17,5 @@ advanced:
   css_class:
 ---
 
-The Wowchemy Research Group has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+R/Pharma is an ISC working group under the R Consortium.
+Our entire event is a community-lead effort and 100% volunteer run. The event is vendor neutral and very much an academic conference. Harvard has been very helpful in hosting the event.
